@@ -1,0 +1,19 @@
+# AdAway personal blocklist
+# Blocking haram sites
+#
+#Last Updated: 2 Oct, 2018
+#
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
+127.0.0.1 pornstargalore.com
+127.0.0.1 parispornmovies.com
+127.0.0.1 tubepornstars.com
+127.0.0.1 hpornstars.com
+127.0.0.1 xozilla.com
+127.0.0.1 zmovs.com
+127.0.0.1 vrporn.com
+127.0.0.1 vrsumo.com
