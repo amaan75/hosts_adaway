@@ -17,3 +17,4 @@
 127.0.0.1 zmovs.com
 127.0.0.1 vrporn.com
 127.0.0.1 vrsumo.com
+127.0.0.1 ahegao.online
